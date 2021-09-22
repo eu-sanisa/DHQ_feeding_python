@@ -19,4 +19,4 @@ Using the log files obtained from the BORIS software (Friard and Gamba 2016), th
 # References
 Rodriguez, A., Zhang, H., Klaminder, J., Brodin, T., Andersson, P. L. and Andersson, M. (2018). ToxTrac: a fast and robust software for tracking organisms. Methods in Ecology and Evolution, 9(3):460-464.
 
-Friard, O., and Gamba, M. (2016). BORIS: a free, versatile open‐source event‐logging software for video/audio coding and live observations. Methods in ecology and evolution, 7(11): 1325-1330.
+Friard, O., and Gamba, M. (2016). BORIS: a free, versatile open‐source event‐logging software for video/audio coding and live observations. Methods in Ecology and Evolution, 7(11): 1325-1330.
