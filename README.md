@@ -1,5 +1,6 @@
 # DHQ_feeding_python
 
+Both scripts work by running them in the folder where the output of the respective softwares are stored.
 
 # toxtrac_summary.py 
 Using the files obtained from the Toxtrac software (Rodriguez et al. 2018), this python script calculates:
